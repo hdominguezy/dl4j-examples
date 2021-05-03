@@ -60,7 +60,7 @@
         <javafx.runtime.lib.jar>${env.JAVAFX_HOME}/jfxrt.jar</javafx.runtime.lib.jar>
         <aws.sdk.version>1.11.109</aws.sdk.version>
         <jackson.version>2.5.1</jackson.version>
-        <scala.plugin.version>3.2.2</scala.plugin.version>
+        <scala.plugin.version>4.5.1</scala.plugin.version>
     </properties>
 
     <modules>
